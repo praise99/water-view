@@ -1,0 +1,217 @@
+@media only screen and (max-width: 480px), only screen and (max-device-width: 480px){
+    .sectA-content{
+        flex-direction: column;
+    }
+    .sectA{
+        overflow-x: hidden;
+
+    }
+    .sectB{
+        flex-direction: column;
+        overflow-x: hidden;
+        height: auto;
+    }
+    .sectC{
+        flex-direction: column;
+        overflow-x: hidden;
+    }
+    .sectD{
+        flex-direction: column;
+        overflow-x: hidden;
+    }
+    .sectE-content{
+        flex-direction: column;
+    }
+    .sectE{
+        overflow-x: hidden; 
+        height: auto;
+
+    }
+    .sectE-cont{
+        height: auto;
+    }
+    .sectF{
+        overflow-x: hidden;
+        height: auto;
+    }
+    .sectG{
+        flex-direction: column;
+        overflow-x: hidden;
+    }
+    .sectA-title {
+        font-size: 20px;
+    }
+    .sectA-nav {
+        width: 100%;
+        margin-left: 150px;
+        margin-top: -83px;
+    }
+    .links {
+        padding-right: 6px;
+        font-size: 12px;
+    }
+    .rect {
+        margin: 150px 0px 0px 353px;
+    }
+    .sectB-title {
+        font-size: 80px;
+    }
+    .sectB-desc {
+        font-size: 14px;
+        white-space: nowrap;
+        text-align: center;
+    }
+    .sectB-btn {
+        margin-left: 90px;
+        width: 200px;
+    }
+    .sectB-img {
+        margin-top: 30px;
+        width: 90%;
+        margin-left: -90px;
+    }
+    .circle {
+        display: none;
+    }
+    .sectC-img {
+        width: 100%;
+    }
+    .img-sectC {
+        margin-left: 45px;
+    }
+    .sectC-title {
+        font-size: 100px;
+        line-height: 100px;
+        margin-top: -190px;
+        margin-left: 60px;
+    }
+    .rect2 {
+        margin: 225px 0px 0px 190px;
+    }
+    .sectC-desc {
+        margin-top: -60px;
+        margin-left: 25px;
+        white-space: nowrap;
+        font-size: 16px;
+        text-align: center;
+    }
+    .sectC-btn {
+        width: 200px;
+        margin-left: 140px;
+        margin-bottom: 50px;
+    }
+    .sectD-content {
+        margin-left: 40px;
+        margin-top: 550px;
+    }
+    .sectD-img {
+        width: 100%;
+    }
+    .img-sectD {
+        width: 180%;
+        margin-top: 40px;
+        margin-left: -210px;
+    }
+    .sectD-card {
+        background: rgb(230, 228, 228);
+        margin-top: -35px;
+        padding: 15px;
+        margin-left: -210px;
+        width: 330px;
+    }
+    .sectD-title2 {
+        margin-top: -130px;
+    }
+    .sectD-desc {
+        font-size: 15px;
+        margin-top: -80px;
+        white-space: nowrap;
+        margin-left: -20px;
+    }
+    .sectD-btn {
+        padding: 15px;
+        margin-left: 80px;
+        width: 200px;
+        margin-bottom: 30px;
+    }
+    .circ {
+        display: none;
+    }
+    .sectE-title {
+        font-size: 70px;
+        margin-top: 150px;
+        line-height: 80px;
+    }
+    .cir {
+        /* position: relative; */
+        display: none;
+    }
+    .rect4 {
+        display: none;
+    }
+    .sectF-img {
+        width: 100%;
+        order: 2;
+    }
+    .sectF-card {
+        flex-direction: column;
+    }
+    .sectF-content {
+        width: 100%;
+        margin-top: 10px;
+    }
+    .img-sectF {
+        width: 95%;
+        margin-left: 0px;
+    }
+    .sectG-one {
+        width: 100%;
+        margin-left: 20px;
+    }
+    .sectG-two {
+        margin-top: 40px;
+        padding-bottom: 20px;
+        width: 100%;
+        margin-left: -10px;
+    }
+    .sectG-three {
+        width: 100%;
+        margin-left: -10px;
+        margin-bottom: 20px;
+    }
+    .sectE-img {
+        width: 100%;
+        margin-left: 80px;
+    }
+    .btn-sectE {
+        width: 163px;
+    }
+    .btn-sectE2 {
+        width: 168px;
+    }
+    .sectE-btn {
+        width: 163px;
+
+    }
+    .sectE-btn2 {
+        width: 163px;
+
+    }
+    .sectE-cont {
+        width: 69%;
+        margin-left: 80px;
+        background-color: #484C7F;
+        height: 600px;
+        margin-top: 50px;
+    }
+    .sectE-btn {
+        width: 167px;
+        /* padding: 5px; */
+        height: 53px;
+        font-size: 20px;
+    }
+    .read-btn {
+        margin-left: 110px;
+    }
+    
+}
